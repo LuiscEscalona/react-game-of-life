@@ -9,15 +9,16 @@ Como usar:
 
 - Seleccionar las celulas con un click
 - Iniciar: Inicia el juego
-- Step: Con cada click se crea una nueva generacion
+- Step: Con cada click se crea una nueva generación
 - Detener: Se Pausa el juego
 - Reiniciar: Se resetea la grilla
-- Intervalo: Se puede cambiar el tiempo entre una generacion y la otra
+- Intervalo: Se puede cambiar el tiempo entre una generación y la otra
 - Tamaño: Se puede cambiar el tamaño de la grilla
-- Oscillators y Spaceships: Muestra patrones especificos
-- Guardar: Guarda el patron que esta en la grilla
-- Ultimo patron: muestra el ultimo patron
+- Oscillators y Spaceships: Muestra patrones específicos
+- Guardar: Guarda el patrón que esta en la grilla
+- Ultimo patrón: muestra el ultimo patron
 - Dark Mode / Light Mode: cambia a modo oscuro o claro 
+- Generación: muestra el numero de generacion celular
 
 ![Screenshot 2022-07-04 195808](https://user-images.githubusercontent.com/89802245/177224174-d48e576e-2df9-4465-aac7-084ade6c78ad.png)
 
