@@ -1,0 +1,22 @@
+.pagenotfound {
+  width: 100%;
+  height: 100%;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #30475e;
+  font-family: "Nova Mono", monospace;
+  font-weight: 600;
+  line-height: normal;
+  font-size: 30px;
+  text-align: center;
+
+  img {
+    width: 300px;
+    margin-bottom: 40px;
+  }
+}
+
+

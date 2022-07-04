@@ -1,0 +1,48 @@
+.menu {
+  display: flex;
+  flex-direction: column;
+
+  &__controls {
+    margin: 10px 0px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    flex-wrap: wrap;
+
+    & > * {
+      flex: 0 0 auto;
+      margin: 5px;
+    }
+  
+    &__dropdown {
+      border-radius: 7px;
+      position: relative;
+  
+      &__title {
+        background: white;
+        border-radius: 7px;
+        font-family: "Lato", sans-serif;
+        font-size: 12px;
+        padding: 3px 4px;
+        position: absolute;
+        top: -10px;
+        left: 9px;
+  
+        &--dark {
+          background-color: #272626;
+          color: #4c7eaf;
+        }
+      }
+    }  
+  }
+  
+  &__title {
+    background: rgb(151, 212, 175);
+    color: rgb(35, 75, 51);
+    border-radius: 6px;
+    font-family: "Lato", sans-serif;
+    font-size: 13px;
+    text-align: center;
+    padding: 4px;
+  }
+}
