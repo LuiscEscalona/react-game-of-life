@@ -21,4 +21,8 @@ Como usar:
 
 ![Screenshot 2022-07-04 195808](https://user-images.githubusercontent.com/89802245/177224174-d48e576e-2df9-4465-aac7-084ade6c78ad.png)
 
+
+
+Dark Mode aplicado
+
 ![Screenshot 2022-07-04 195717](https://user-images.githubusercontent.com/89802245/177224188-63ef34e8-456f-497b-a316-086b33a2b0fa.png)
