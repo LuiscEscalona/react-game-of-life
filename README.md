@@ -1,11 +1,14 @@
 # react-game-of-life
 
+
 ![Screenshot 2022-07-04 195534](https://user-images.githubusercontent.com/89802245/177223648-e87e22c7-7e33-4d94-90fa-17cd4d1b61e0.png)
+
 
 # Example
 Puedes usar la aplicación en el siguiente link: 
 
-Como usar:
+
+# Como usar:
 
 - Seleccionar las celulas con un click
 - Iniciar: Inicia el juego
@@ -20,10 +23,10 @@ Como usar:
 - Dark Mode / Light Mode: cambia a modo oscuro o claro 
 - Generación: muestra el numero de generacion celular
 
+
 ![Screenshot 2022-07-04 195808](https://user-images.githubusercontent.com/89802245/177224174-d48e576e-2df9-4465-aac7-084ade6c78ad.png)
 
 
-
-Dark Mode aplicado
+Dark Mode aplicado:
 
 ![Screenshot 2022-07-04 195717](https://user-images.githubusercontent.com/89802245/177224188-63ef34e8-456f-497b-a316-086b33a2b0fa.png)
