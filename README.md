@@ -9,7 +9,7 @@ Puedes usar la aplicación en el siguiente link:
 
 
 # Como usar:
-
+- ? : Reglas del juego
 - Seleccionar las celulas con un click
 - Iniciar: Inicia el juego
 - Step: Con cada click se crea una nueva generación
@@ -30,3 +30,7 @@ Puedes usar la aplicación en el siguiente link:
 Dark Mode aplicado:
 
 ![Screenshot 2022-07-04 195717](https://user-images.githubusercontent.com/89802245/177224188-63ef34e8-456f-497b-a316-086b33a2b0fa.png)
+
+
+# Notas
+- Informacion sobre funcionamiento, patrones https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
