@@ -5,7 +5,7 @@
 
 
 # Example
-Puedes usar la aplicación en el siguiente link: https://bit.ly/3RcoiWc
+Puedes usar la aplicación en el siguiente link: https://bit.ly/3OKE754
 
 
 # Como usar:
