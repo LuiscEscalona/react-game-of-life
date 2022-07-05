@@ -5,7 +5,7 @@
 
 
 # Example
-Puedes usar la aplicación en el siguiente link: 
+Puedes usar la aplicación en el siguiente link: https://bit.ly/3RcoiWc
 
 
 # Como usar:
@@ -33,4 +33,4 @@ Dark Mode aplicado:
 
 
 # Notas
-- Informacion sobre funcionamiento, patrones https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+- Informacion sobre funcionamiento, patrones https://bit.ly/3NJJ4cO
