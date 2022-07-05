@@ -103,7 +103,6 @@ const play = (baseState, arrayOperations, updaterFunction, rows, cols) => {
     }
   });
 
-  console.log(newGrid);
   // se actualiza el state
   updaterFunction({
     generation: baseState.generation + 1,
